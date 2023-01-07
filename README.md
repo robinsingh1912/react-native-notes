@@ -23,3 +23,13 @@
   - OS
 ### StatusBar
 ### Layout
+  {{height : 150, width : 75}}
+  ___
+  > -- DIS (Density-Independent pixal)
+  >
+  physical pixel = DIPs x scale factor
+  ___
+  #### Dimensions API
+  `Dimensions.get('screen')` 
+  > `screen` vs `window`
+  
