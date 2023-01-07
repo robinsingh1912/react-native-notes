@@ -34,5 +34,5 @@
   > `screen` vs `window`
   
 ### @react-native-community/hooks
-  ### useDimension()
-  ### useDeviceOrientation()
+  - useDimension()
+  - useDeviceOrientation()
