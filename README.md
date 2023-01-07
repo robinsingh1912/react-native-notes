@@ -10,6 +10,7 @@
 
 ## Fundamental Concepts
 ### View
+  Note : **SafeAreaView on work on IOS.**
 ### Text 
 ### Image
 ### Touchables
